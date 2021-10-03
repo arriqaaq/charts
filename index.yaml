@@ -3,9 +3,9 @@ entries:
   kubediff:
   - apiVersion: v1
     appVersion: v0.0.1-dev
-    created: "2021-10-03T10:00:44.246934+05:30"
+    created: "2021-10-03T10:27:45.275696+05:30"
     description: A kubernetes resource diff logger with the ability to send event notifications to webhook/slack.
-    digest: 708af4bfdef40266e5b012af0c6c0292e77f6950d870ec576563d2cf457f0cb9
+    digest: 94985cda135617786d3db2a73a07b42047447cffdc0aab43a62b03f41fe5223a
     keywords:
     - kubediff
     - kubernetes
@@ -15,6 +15,6 @@ entries:
     sources:
     - https://github.com/arriqaaq/kubediff
     urls:
-    - https://arriqaaq.github.io/kubediff/charts/kubediff-v0.1.1-dev.tgz
+    - https://arriqaaq.github.io/charts/kubediff-v0.1.1-dev.tgz
     version: v0.1.1-dev
-generated: "2021-10-03T10:00:44.246082+05:30"
+generated: "2021-10-03T10:27:45.273619+05:30"
